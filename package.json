@@ -1,0 +1,11 @@
+{
+  "name": "mirath-ts-dhawu-arham-tanzil",
+  "version": "1.0.0",
+  "description": "Dhawu Al-Arham Extended Relatives Inheritance Solver (Ahl Al-Tanzil & Ahl Al-Qarabah) (حاسبة توريث ذوي الأرحام على مذهب أهل التنزيل والقرابة)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
